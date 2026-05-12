@@ -1,0 +1,13 @@
+# Git Commands Reference
+   
+   ## Basic Commands
+   - `git status` - Show changed files
+   - `git add [file]` - Stage file for commit
+   - `git commit -m "message"` - Save changes
+   - `git push` - Send to remote repository
+   - `git pull` - Get latest changes
+   
+   ## Branching
+   - `git branch` - List branches
+   - `git checkout -b [name]` - Create and switch to new branch
+   - `git merge [branch]` - Merge branch into current branch
